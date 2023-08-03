@@ -110,8 +110,8 @@ github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZm
 github.com/dgryski/go-sip13 v0.0.0-20181026042036-e10d5fee7954/go.mod h1:vAd38F8PWV+bWy6jNmig1y/TA+kYO4g3RSRF0IAv0no=
 github.com/docker/distribution v2.7.1+incompatible/go.mod h1:J2gT2udsDAN96Uj4KfcMRqY0/ypR+oyYUYmja8H+y+w=
 github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815/go.mod h1:WwZ+bS3ebgob9U8Nd0kOddGdZWjyMGR8Wziv+TBNwSE=
-github.com/doflamingo721/wrangler v1.26.5-rancher1 h1:jKeZf/CzAd9Ti/+CXGIm4qVva1X8o95E9qX0/wDWMpA=
-github.com/doflamingo721/wrangler v1.26.5-rancher1/go.mod h1:sAqHJ2HttZVDW3eSe/hwtkJ2SHWAsgPHz6TriueV4Bs=
+github.com/doflamingo721/wrangler v1.26.5-rancher2 h1:98d6GBrFKalAR7Opry6fI/a+MpJbhs15LCG3/NWhUAQ=
+github.com/doflamingo721/wrangler v1.26.5-rancher2/go.mod h1:23PB5dwtpd0h8iOQPfN9HxJi5a3n6ixktqswZ+kkTqA=
 github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
 github.com/elazarl/goproxy v0.0.0-20180725130230-947c36da3153/go.mod h1:/Zj4wYkgs4iZTTu3o/KG3Itv/qCCa8VVMlb3i9OVuzc=
 github.com/emicklei/go-restful v0.0.0-20170410110728-ff4f55a20633/go.mod h1:otzb+WCGbkyDHkqmQmT5YD2WR4BBwUdeQoFo8l/7tVs=

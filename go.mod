@@ -3,9 +3,9 @@ module github.com/rancher/fleet
 go 1.19
 
 replace (
-	github.com/rancher/gitjob => github.com/doflamingo721/gitjob v1.26.5-rancher1
-	github.com/rancher/lasso => github.com/doflamingo721/lasso v1.26.5-rancher1
-	github.com/rancher/wrangler => github.com/doflamingo721/wrangler v1.26.5-rancher1
+	github.com/rancher/gitjob => github.com/doflamingo721/gitjob v1.26.5-rancher2
+	github.com/rancher/lasso => github.com/doflamingo721/lasso v1.26.5-rancher3
+	github.com/rancher/wrangler => github.com/doflamingo721/wrangler v1.26.5-rancher2
 )
 
 replace (
@@ -16,7 +16,7 @@ replace (
 	k8s.io/apimachinery => k8s.io/apimachinery v0.26.5 // indirect
 	k8s.io/apiserver => k8s.io/apiserver v0.26.5
 	k8s.io/cli-runtime => k8s.io/cli-runtime v0.26.5
-	k8s.io/client-go => github.com/doflamingo721/client-go v1.26.5-rancher1
+	k8s.io/client-go => github.com/doflamingo721/client-go v1.26.5-rancher2
 	k8s.io/cloud-provider => k8s.io/cloud-provider v0.26.5
 	k8s.io/cluster-bootstrap => k8s.io/cluster-bootstrap v0.26.5
 	k8s.io/code-generator => k8s.io/code-generator v0.26.5
@@ -57,7 +57,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/rancher/fleet/pkg/apis v0.0.0
 	github.com/rancher/gitjob v0.1.36
-	github.com/rancher/lasso v0.0.0-20221227210133-6ea88ca2fbcc
+	github.com/rancher/lasso v0.0.0-20230629200414-8a54b32e6792
 	github.com/rancher/wrangler v1.1.1
 	github.com/rancher/wrangler-cli v0.0.0-20220624114648-479c5692ba22
 	github.com/sirupsen/logrus v1.9.3
